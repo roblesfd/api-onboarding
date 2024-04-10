@@ -1,0 +1,16 @@
+Inicio 
+->Empresa
+->CrearCompania(companiaNombre,email,telefono,estado)
+->CompaniaCreada
+->Inicio 
+Inicio 
+->Cuenta
+->CrearCuenta(companiaID,division,descuentoDefault,limiteCredito)
+->CuentaCreada
+->Inicio 
+Inicio 
+->ActividadVenta
+->CrearActividad(companiaID,cuentaID,tipoActividad,fechaProgramada,nota)
+->ActividadCreada
+->Inicio 
+
